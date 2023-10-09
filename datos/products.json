@@ -1,0 +1,101 @@
+[
+  {
+    "id":"1",
+    "nombre":["lamparas","Esbelta","Minimalista","candil"],
+    "imagen":["./img/lamparas.jpg",
+              "./img/lamparablanca.jpg",
+              "./img/lamparaminimalistaceramica.jpg",
+              "./img/lamparas.jpg"],
+    "descripcion":"Fabricadas por nuestros artesanos en ceramica cocida y esmaltada",
+    "slogan":"Para iluminar tu noche",
+    "precio1":"10.000",
+    "precio2":"5.000",
+    "precio3":"8.000"
+   
+  },
+  {
+    "id":"2",
+    "nombre":["Macetas clásicas","La peque","Medianita","Hermana Mayor"],
+    "imagen":["./img/macetasmuchas.jpg",
+              "./img/macetaclasicapequena.jpg",
+              "./img/macetaclasicamediana.jpg",
+              "./img/macetaclasicagrande.jpg"],
+    "slogan":"PARA TODO TIPO DE PLANTAS",
+    "descripcion":"Cocidas en horno de alta temperatura",
+    "precio1":"2.000",
+    "precio2":"4.000",
+    "precio3":"6.000",
+    
+    "capacidad1":"xlt",
+    "capacidad2":"xlt",
+    "capacidad3":"xlt"
+  },
+  {
+    "id":"3",
+    "nombre":["Vasijas","Magnificas","Inmaculadas","Macetón"],
+    "imagen":["./img/vasijas2.jpg",
+              "./img/vasijagrande.jpg",
+              "./img/vasijasola.jpg",
+              "./img/vasijadecoracion.jpg"],
+    "slogan":"DECORA CON VASIJAS",
+    "descripcion":"FABRICADAS CON BARRO COCIDO",
+    "precio1":"2.000",
+    "precio2":"4.000",
+    "precio3":"6.000",
+    
+    "capacidad1":"xlt",
+    "capacidad2":"xlt",
+    "capacidad3":"xlt"
+  },
+  {
+    "id":"4",
+    "nombre":["Vajilla","Tacitas","Jarro chocolate caliente","Tetera"],
+    "imagen":["./img/tomarelte.jpg",
+              "./img/tacitas.jpg",
+              "./img/tazasdete.jpg",
+              "./img/tomarelte.jpg"],
+    "slogan":"DE OTRO TIEMPO...",
+    "descripcion":"FABRICADAS DE FORMA ARTESANAL",
+    "precio1":"2.000",
+    "precio2":"4.000",
+    "precio3":"6.000",
+    
+    "capacidad1":"xlt",
+    "capacidad2":"xlt",
+    "capacidad3":"xlt"
+  },
+  {
+    "id":"5",
+    "nombre":["Bandejas","Mar azul","Lemmon touch","soberbia"],
+    "imagen":["img/bandejagrande.jpg",
+              "./img/bandeja1.jpg",
+              "./img/bandeja2.jpg",
+              "./img/bandejagrande.jpg"],
+    "slogan":"Para llevar lo que quieras",
+    "descripcion":"Realizadas en cerámica esmaltada",
+    "precio1":"2.000",
+    "precio2":"4.000",
+    "precio3":"6.000",
+    "tamano":"xlt",
+    "tamano1":"xlt",
+    "tamano2":"xlt",
+    "tamano3":"xlt"
+  },
+  {
+    "id":"6",
+    "nombre":["Macetas decoradas","Mosaico","francesitas","Azul y Blanca"],
+    "imagen":["img/macetasdecoradas.jpg",
+              "./img/macetadecorada.jpg",
+              "./img/macetasdecoradas.jpg",
+              "./img/macetaazulyblanca.jpg"],
+    "slogan":"LAS MÁS DIVERTIDAS",
+    "descripcion":"Decoradas a mano con gran ingenio",
+    "precio1":"2.000",
+    "precio2":"4.000",
+    "precio3":"6.000",
+    
+    "capacidad1":"xlt",
+    "capacidad2":"xlt",
+    "capacidad3":"xlt"
+  }
+]

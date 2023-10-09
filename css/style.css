@@ -1,0 +1,91 @@
+body{
+  background-image:url("../");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed ;
+  font-family:'Amatic SC', cursive; 
+  color: brown;
+  background-color:bisque ;
+}
+.navbar{
+  position: fixed; /* Fija la barra de navegación en la parte superior */
+    top: 0; /* Posición en la parte superior */
+    left: 0;
+    width: 100%; /* Ocupa todo el ancho */
+    background-color: #333; /* Color de fondo de la barra de navegación */
+     
+    z-index: 1000; /* Para asegurarse de que esté en la parte superior de otros elementos */
+}
+.navtitle{
+  color: bisque;
+  font-family:''Young Serif', serif;'
+}
+.navbar .logo{
+height:60px ;
+}
+
+.content {
+  margin-top: 120px; /* Margen superior para que el contenido no se superponga con la barra de navegación */
+  padding: 20px; /* Espacio interno */
+} 
+.border-custom{
+  border: 1px solid brown;
+  border-radius: 10pz;
+  padding: 5px;
+  
+}
+.slogan{
+  color: crimson;
+}
+.titulo{
+  text-align: center;
+}
+img {
+  height: 300px; /* Establece la altura deseada para todas las imágenes */
+  width: auto; /* Mantiene la proporción original de la imagen */
+}
+
+.carrouselimg{
+  height: 500px;
+  
+}
+.carousel-caption {
+  color: brown;
+  font-family: 'Young Serif', serif;
+  background-color: hsl(33, 100%, 88%,0.9);
+  padding: 0%;
+  margin-bottom:0%;
+}
+
+/* Agrega  color personalizado */
+.btn-custom {
+  background-color: brown;
+  border-color: brown;
+  color: bisque; /* Cambia el color del texto si es necesario */
+}
+#botonvolver{
+  padding-left:20px ;
+  padding-right: 20px;
+  font-size: larger;
+  text-decoration: none;
+  border-radius:10px ;
+}
+#btnvolver:hover{
+  background-color: darkred; 
+}
+.font-weight-bold{
+  font-weight: 400;
+  margin-block-start: 0em;
+    margin-block-end: em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-top:0px ;
+
+}
+
+/* Otras clases de Bootstrap para estados del botón (hover, activo, etc.) */
+.btn-custom:hover {
+  background-color: darkred; /* Cambia el color al pasar el mouse por encima */
+}
+
+
